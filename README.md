@@ -72,4 +72,4 @@ To train the model, follow these steps:
 python train_emotion_model.py
 ```  
 ## Results  
-The model currently achieves an accuracy of approximately 53% on the FER-2013 dataset. This can be further improved by using more advanced neural network architectures or larger datasets. A brief discussion of the model's performance, challenges faced, and potential areas for improvement could be added here.
+The model currently achieves an accuracy of approximately 53% on the FER-2013 dataset. This can be further improved by using more advanced neural network architectures or larger datasets. 
